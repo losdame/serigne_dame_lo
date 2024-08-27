@@ -41,7 +41,7 @@ I am an experienced **Economist**, **Quantitative Analyst**, **Statistician**, a
 - **[Wharton U. of Pennsylvania / Fundamentals of Quantitative Modeling](https://www.coursera.org/account/accomplishments/certificate/KZFXLXJ277BS)**  
   June 2024, Online
 
-- **[Université Numérique Cheikh Hamidou Kane / Data Analysis](https://www.udemy.com/course/data-analysis-ucn/)**  
+- **[Université Numérique Cheikh Hamidou Kane / Data Analysis](https://drive.google.com/file/d/1mz4ERMRpY_WGvKQna0KPz-soSQA3U1hs/view?usp=sharing)**  
   March 2024, Online
 
 ## 💼 Experience
