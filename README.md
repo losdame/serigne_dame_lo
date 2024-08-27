@@ -26,19 +26,19 @@ I am an experienced **Economist**, **Quantitative Analyst**, **Statistician**, a
 
 ## 📜 Certifications
 
-- **[Google / Advanced Data Analytics Professional Certificate](https://www.coursera.org/learn/advanced-data-analytics)**  
+- **[Google / Advanced Data Analytics Professional Certificate](https://coursera.org/verify/professional-cert/YJE3K2JZ523E)**  
   February 2024, Online
 
-- **[Yale / Financial Markets](https://www.coursera.org/learn/financial-markets-global)**  
+- **[Yale / Financial Markets](https://coursera.org/verify/NJRKLKVXC2KC)**  
   February 2023, Online
 
-- **[Stanford University - DeepLearning.AI / Machine Learning](https://www.coursera.org/learn/machine-learning)**  
+- **[Stanford University - DeepLearning.AI / Machine Learning](https://coursera.org/verify/specialization/MWLQEXFRK6DZ)**  
   May 2024, Online
 
-- **[IBM / Databases and SQL for Data Science with Python](https://www.coursera.org/learn/sql-data-science)**  
+- **[IBM / Databases and SQL for Data Science with Python](https://coursera.org/verify/Z5ADVWFTFZV6)**  
   March 2024, Online
 
-- **[Wharton U. of Pennsylvania / Fundamentals of Quantitative Modeling](https://www.coursera.org/learn/quantitative-modeling)**  
+- **[Wharton U. of Pennsylvania / Fundamentals of Quantitative Modeling](https://www.coursera.org/account/accomplishments/certificate/KZFXLXJ277BS)**  
   June 2024, Online
 
 - **[Université Numérique Cheikh Hamidou Kane / Data Analysis](https://www.udemy.com/course/data-analysis-ucn/)**  
