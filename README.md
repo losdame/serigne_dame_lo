@@ -66,6 +66,8 @@ I am an experienced **Economist**, **Quantitative Analyst**, **Statistician**, a
 
 Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/serigne-dame-lo-44a428214/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B8hH%2BNmdWSDORdlO528WEAQ%3D%3D) or [email](mailto:your.loserignedame9@gmail.com).
 
-![Footer Image](https://your-image-url.com/footer-image.jpg) <!-- Replace with your actual image URL -->
+## Badge
+
+https://www.credly.com/badges/1eee6a81-e4ee-422c-8849-724fcc330039/public_url
 
 Thank you for visiting my GitHub profile! 🙌
