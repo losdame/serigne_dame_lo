@@ -27,7 +27,7 @@ I am an experienced **Economist**, **Quantitative Analyst**, **Statistician**, a
 ## 📜 Certifications
 
 - **[Google / Advanced Data Analytics Professional Certificate](https://coursera.org/verify/professional-cert/YJE3K2JZ523E)**
-  February 2024, Online
+  /February 2024, Online
 
 - **[Yale / Financial Markets](https://coursera.org/verify/NJRKLKVXC2KC)**  
   February 2023, Online
