@@ -16,7 +16,8 @@ I am an experienced **Economist**, **Quantitative Analyst**, **Statistician**, a
 
 ## 🎓 Education
 
-- **[Master's in Quantitative Economics and Finance](https://formations.auf.org/home/formation/master-m2-economie-et-finance-quantitatives-efq/)** 
+- **[Master's in Quantitative Economics and Finance](https://formations.auf.org/home/formation/master-m2-economie-et-finance-quantitatives-efq/)**
+
   Université Cheikh Anta Diop (UCAD)  
   2021 - 2023
 
@@ -27,6 +28,7 @@ I am an experienced **Economist**, **Quantitative Analyst**, **Statistician**, a
 ## 📜 Certifications
 
 - **[Google / Advanced Data Analytics Professional Certificate](https://coursera.org/verify/professional-cert/YJE3K2JZ523E)**
+
   February 2024, Online
 
 - **[Yale / Financial Markets](https://coursera.org/verify/NJRKLKVXC2KC)**  
