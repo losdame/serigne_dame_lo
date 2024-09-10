@@ -16,7 +16,7 @@ I am an experienced **Economist**, **Quantitative Analyst**, **Statistician**, a
 
 ## 🎓 Education
 
-- **Master's in Quantitative Economics and Finance**  
+- **[Master's in Quantitative Economics and Finance**](https://formations.auf.org/home/formation/master-m2-economie-et-finance-quantitatives-efq/) 
   Université Cheikh Anta Diop (UCAD)  
   2021 - 2023
 
@@ -58,7 +58,7 @@ I am an experienced **Economist**, **Quantitative Analyst**, **Statistician**, a
 
 ## 📚 Publication
 
-- **Thesis: "The Efficiency of Public Health Spending in Senegal"**  
+- **Master's Thesis: "The Efficiency of Public Health Spending in Senegal"**  
   Faculty of Economic Sciences and Management (FASEG), UCAD  
   August 2024
 
