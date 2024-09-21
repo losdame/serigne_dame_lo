@@ -1,9 +1,10 @@
 # 👋 Welcome to My GitHub Profile!
 
+**Economist**, **Quantitative Analyst**, **Statistician**, **Data Scientist**
+
 ## About Me
 
-I am an experienced **Economist**, **Quantitative Analyst**, **Statistician**, and **Data Scientist** with a strong foundation in data analysis, machine learning, and advanced statistical modeling. My expertise includes Python, TensorFlow, Power BI, SQL, and more. I am passionate about leveraging data to drive impactful insights and solutions.
-
+Versatile individual with experience in exploratory data analysis, data visualization, hypothesis testing, logistic regression, and machine learning models like Naive Bayes and decision trees. Excellent understanding and proficiency of platforms for effective data analysis, cleaning, and visualization, including spreadsheets, Python, TensorFlow, Power BI, Tableau, SQL. Strong communication, organizational, and analytical skills. Recently completed the Google Advanced Data Analytics Certificate—a rigorous, hands-on program that covers the entire scope of the data analysis and data modeling process.
 
 ## 🔧 Skills
 
