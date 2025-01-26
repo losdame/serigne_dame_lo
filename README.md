@@ -4,7 +4,7 @@
 
 ## About Me
 
-Versatile individual with experience in exploratory data analysis, data visualization, hypothesis testing, logistic regression, and machine learning models like Naive Bayes and decision trees. Excellent understanding and proficiency of platforms for effective data analysis, cleaning, and visualization, including spreadsheets, Python, TensorFlow, Power BI, Tableau, SQL. Strong communication, organizational, and analytical skills. Recently completed the Google Advanced Data Analytics Certificate—a rigorous, hands-on program that covers the entire scope of the data analysis and data modeling process.
+I am passionate about data. I have a background in economics, quantitative finance, statistics, econometrics and data sciences. I enjoy transforming complex data to generate impactful information and solutions! Excellent understanding and proficiency of platforms for effective data analysis, cleaning, and visualization, including spreadsheets, Python, TensorFlow, Power BI, Tableau, SQL. Strong communication, organizational, and analytical skills. Recently completed the Google Advanced Data Analytics Certificate—a rigorous, hands-on program that covers the entire scope of the data analysis and data modeling process.
 
 ## 🔧 Skills
 
@@ -61,10 +61,10 @@ Versatile individual with experience in exploratory data analysis, data visualiz
 
 ## 📚 Publication
 
-- **Master's Thesis: "The Efficiency of Public Health Spending in Senegal"**  
+- **Master's Thesis: ["The Efficiency of Public Health Spending in Senegal"](https://github.com/losdame/Publication/blob/a28a453377ccd03d25e884e9495dd3cc6766f274/L'efficience%20des%20d%C3%A9penses%20publiques%20de%20sant%C3%A9%20au%20S%C3%A9n%C3%A9gal.pdf)**  
   Faculty of Economic Sciences and Management (FASEG), UCAD  
   August 2024
-
+- **Article: ["Loan Approved"](https://github.com/losdame/Publication/blob/a28a453377ccd03d25e884e9495dd3cc6766f274/Evaluation%20comparative%20de%20mod%C3%A8les%20d'apprentissage%20automatique.pdf)**  
 ## 📫 Contact
 
 Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/serigne-dame-lo-44a428214/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B8hH%2BNmdWSDORdlO528WEAQ%3D%3D) or [email](mailto:your.loserignedame9@gmail.com).
